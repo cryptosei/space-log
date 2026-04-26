@@ -154,3 +154,53 @@ Lunar Exploration - Phase 4
 
 ## 📍 Status
 Phase 4: Lunar Exploration - Completed
+---
+
+## 🛰 Artemis Program – Current Status
+
+---
+
+## 📄 Overview
+アルテミス計画は、NASA主導で進められている月探査プログラムであり、  
+人類を再び月面へ送り、持続的な探査拠点の構築を目標としている。
+
+---
+
+## 🚀 Recent Progress
+- アルテミスI：無人試験飛行を完了（SLSロケットおよびオリオン宇宙船の検証）  
+- 深宇宙飛行・再突入・帰還システムの実証に成功  
+- 月周回軌道での長期間運用データを取得  
+
+---
+
+## 👨‍🚀 Upcoming Missions（予定）
+- アルテミスII：有人での月周回ミッション（乗員の安全性検証）  
+- アルテミスIII：有人月面着陸を目標（南極付近が候補地）  
+
+※スケジュールは技術開発・安全性評価により変更される可能性がある
+
+---
+
+## 🛰 Key Technologies
+- SLS（Space Launch System）：超大型ロケット  
+- Orion：有人宇宙船  
+- 月着陸システム（民間企業と連携）  
+
+---
+
+## 🌍 Strategic Goals
+- 月面での持続的活動の確立  
+- 月資源の利用可能性の検証  
+- 将来の火星探査に向けた技術基盤の構築  
+
+---
+
+## 🧠 Analysis
+アルテミス計画は単なる月面着陸の再現ではなく、  
+「長期滞在」と「拠点化」を目的とした次世代の宇宙開発である。  
+国際協力および民間企業の参加が特徴的である。
+
+---
+
+## 📍 Status
+Artemis Program: Ongoing Development Phase
