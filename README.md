@@ -131,7 +131,7 @@ Lunar Exploration - Phase 4
 ---
 
 ## 🛰 Artemis Program
-アルテミス計画は、:contentReference[oaicite:0]{index=0} による次世代の月探査計画である。
+アルテミス計画は、:NASAによる次世代の月探査計画である。
 
 - 無人試験飛行の実施（アルテミスI）  
 - 将来的な有人月面着陸を目標  
