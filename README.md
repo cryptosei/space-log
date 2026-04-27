@@ -210,3 +210,4 @@ Artemis Program: Ongoing Development Phase
 Venus Exploration - Phase 5
 ## 📄 Abstract
 本フェーズでは、金星の環境および特徴について調査する。
+地球に類似したサイズを持ちながら、極端な環境を有する点に注目する。
