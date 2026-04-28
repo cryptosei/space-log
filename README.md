@@ -215,7 +215,7 @@ Artemis Program: Ongoing Development Phase
 太陽に最も近い惑星としての特性に注目する。
 ## 🌡 Environment
 - 昼：約430℃
-
+- 夜：約-180℃
 
 
 
