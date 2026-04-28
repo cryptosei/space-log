@@ -206,26 +206,44 @@ Phase 4: Lunar Exploration - Completed
 Artemis Program: Ongoing Development Phase
 ---
 ---
+---
 
 ## ☀️ ミッションタイトル / Mission Title
 水星探査（Mercury Exploration）- フェーズ5
-## 🔥 Mission Title
+
+---
+
 ## 📄 Abstract
-本フェーズでは、水星の環境および特徴について調査する。
+本フェーズでは、水星の環境および特徴について調査する。  
 太陽に最も近い惑星としての特性に注目する。
+
+---
+
 ## 🌡 Environment
 - 昼：約430℃
 - 夜：約-180℃
 - 大気はほぼ存在しない
+
+---
+
 ## 🔬 Findings
 - 昼夜の温度差が非常に大きい
+
+---
+
 ## 🧠 Discussion
 太陽に近いため、極端な環境が形成されている。
+
+---
+
 ## 🧾 Conclusion
 水星は極限環境の理解に重要な対象である。
+
+---
+
 ## 📍 Status
 Phase 5: Mercury Exploration - Completed
----
+
 
 ## 🔥 ミッションタイトル / Mission Title
 金星探査（Venus Exploration）- フェーズ6
