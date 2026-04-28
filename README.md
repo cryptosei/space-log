@@ -214,3 +214,4 @@ Venus Exploration - Phase 5
 ## 🎯 Objective
 - 金星の環境特性の理解
 - 地球との違いの分析
+- 探査の課題の把握
