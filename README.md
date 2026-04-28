@@ -221,3 +221,4 @@ Venus Exploration - Phase 5
 ## 🌡 Environment
 - 表面温度：約460℃
 - 大気の主成分：二酸化炭素
+- 気圧：約90気圧
