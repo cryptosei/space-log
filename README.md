@@ -277,3 +277,4 @@ Phase 6: Venus Exploration - Completed
 火星探査（Mars Exploration）- フェーズ7
 ## 📄 Abstract
 本フェーズでは、火星の環境および探査の現状について調査する。
+将来的な人類の居住可能性に焦点を当てる。
