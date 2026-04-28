@@ -225,7 +225,7 @@ Artemis Program: Ongoing Development Phase
 水星は極限環境の理解に重要な対象である。
 ## 📍 Status
 Phase 5: Mercury Exploration - Completed
-
+Venus Exploration - Phase 6
 Venus Exploration - Phase 6
 ## 📄 Abstract
 本フェーズでは、金星の環境および特徴について調査する。
