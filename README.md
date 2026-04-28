@@ -244,3 +244,4 @@ Venus Exploration - Phase 6
 - 硫酸の雲が存在
 ## 🔬 Findings
 - 極端な温室効果が発生している
+- 探査機の寿命が短い
