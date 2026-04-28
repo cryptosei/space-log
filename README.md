@@ -245,3 +245,5 @@ Venus Exploration - Phase 6
 ## 🔬 Findings
 - 極端な温室効果が発生している
 - 探査機の寿命が短い
+## 🧠 Discussion
+金星は温室効果の研究対象として重要である。
