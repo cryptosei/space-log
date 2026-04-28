@@ -218,3 +218,5 @@ Venus Exploration - Phase 5
 ## 🌍 Overview
 金星は地球に近いサイズを持つ惑星である。
 太陽系内で地球に比較的近い軌道を持つ。
+## 🌡 Environment
+- 表面温度：約460℃
