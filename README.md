@@ -249,3 +249,5 @@ Venus Exploration - Phase 6
 金星は温室効果の研究対象として重要である。
 ## 🧾 Conclusion
 金星は過酷な環境を持つが、重要な研究対象である。
+## 📍 Status
+Phase 6: Venus Exploration - Completed
