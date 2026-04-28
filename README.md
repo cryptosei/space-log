@@ -213,6 +213,11 @@ Artemis Program: Ongoing Development Phase
 ## 📄 Abstract
 本フェーズでは、水星の環境および特徴について調査する。
 太陽に最も近い惑星としての特性に注目する。
+## 🌡 Environment
+- 昼：約430℃
+
+
+
 
 Venus Exploration - Phase 6
 ## 📄 Abstract
