@@ -217,7 +217,8 @@ Artemis Program: Ongoing Development Phase
 - 昼：約430℃
 - 夜：約-180℃
 - 大気はほぼ存在しない
-
+## 🔬 Findings
+- 昼夜の温度差が非常に大きい
 
 Venus Exploration - Phase 6
 ## 📄 Abstract
