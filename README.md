@@ -220,3 +220,4 @@ Venus Exploration - Phase 5
 太陽系内で地球に比較的近い軌道を持つ。
 ## 🌡 Environment
 - 表面温度：約460℃
+- 大気の主成分：二酸化炭素
