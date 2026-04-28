@@ -207,7 +207,7 @@ Artemis Program: Ongoing Development Phase
 ---
 
 ## 🔥 Mission Title
-Venus Exploration - Phase 5
+Venus Exploration - Phase 6
 ## 📄 Abstract
 本フェーズでは、金星の環境および特徴について調査する。
 地球に類似したサイズを持ちながら、極端な環境を有する点に注目する。
