@@ -221,7 +221,8 @@ Artemis Program: Ongoing Development Phase
 - 昼夜の温度差が非常に大きい
 ## 🧠 Discussion
 太陽に近いため、極端な環境が形成されている。
-
+## 🧾 Conclusion
+水星は極限環境の理解に重要な対象である。
 
 
 
