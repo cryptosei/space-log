@@ -247,3 +247,5 @@ Venus Exploration - Phase 6
 - 探査機の寿命が短い
 ## 🧠 Discussion
 金星は温室効果の研究対象として重要である。
+## 🧾 Conclusion
+金星は過酷な環境を持つが、重要な研究対象である。
