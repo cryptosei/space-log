@@ -275,3 +275,5 @@ Phase 6: Venus Exploration - Completed
 
 ## 🔴 ミッションタイトル / Mission Title
 火星探査（Mars Exploration）- フェーズ7
+## 📄 Abstract
+本フェーズでは、火星の環境および探査の現状について調査する。
