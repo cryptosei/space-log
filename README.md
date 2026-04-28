@@ -244,7 +244,6 @@ Artemis Program: Ongoing Development Phase
 ## 📍 Status
 Phase 5: Mercury Exploration - Completed
 
-
 ## 🔥 ミッションタイトル / Mission Title
 金星探査（Venus Exploration）- フェーズ6
 ## 📄 Abstract
