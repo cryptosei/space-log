@@ -216,7 +216,7 @@ Artemis Program: Ongoing Development Phase
 ## 🌡 Environment
 - 昼：約430℃
 - 夜：約-180℃
-
+- 大気はほぼ存在しない
 
 
 Venus Exploration - Phase 6
