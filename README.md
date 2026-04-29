@@ -280,3 +280,4 @@ Phase 6: Venus Exploration - Completed
 将来的な人類の居住可能性に焦点を当てる。
 ## 🎯 Objective
 - 火星の環境特性の理解
+- 人類の居住可能性の検討
