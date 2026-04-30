@@ -290,3 +290,4 @@ Phase 6: Venus Exploration - Completed
 ## 🌡 Environment
 - 平均気温：約-60℃
 - 昼夜で大きな温度差がある
+- 大気の主成分：二酸化炭素（CO2）
