@@ -289,3 +289,4 @@ Phase 6: Venus Exploration - Completed
 極域には氷が存在すると考えられている。
 ## 🌡 Environment
 - 平均気温：約-60℃
+- 昼夜で大きな温度差がある
