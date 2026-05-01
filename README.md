@@ -305,3 +305,4 @@ Phase 6: Venus Exploration - Completed
 ## 🤖 Rover Missions
 - 火星では複数のローバーが探査を行っている
 - Curiosity：2012年に火星へ着陸した探査ローバー
+- 火星の岩石や土壌を分析し、過去の環境を調査
