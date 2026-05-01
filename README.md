@@ -299,3 +299,4 @@ Phase 6: Venus Exploration - Completed
 ## 💧 Water & Ice
 - 火星には水が存在した可能性がある
 - 表面には川や湖の痕跡が確認されている
+- 地下には氷として水が存在すると考えられている
