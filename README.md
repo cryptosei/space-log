@@ -3,6 +3,7 @@ space-log 🚀 宇宙学習ログ / Space Exploration Notes
 
 宇宙開発・惑星探査について学んだ内容をまとめた個人ログ  
 A personal study log of space exploration and planetary science.
+---
 地球から飛び出すための基礎を調査 🚀
 地球は強い重力を持ち、すべての物体を中心へ引き寄せる
 この重力圏を脱出するためには、一定以上の速度（脱出速度）に到達する必要がある
