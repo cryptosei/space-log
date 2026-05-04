@@ -317,3 +317,4 @@ Phase 6: Venus Exploration - Completed
 - Perseverance：2021年に火星へ着陸したローバー
 - 古代の生命の痕跡（バイオシグネチャー）を探査
 - 岩石サンプルを収集し、将来の地球帰還を目指す
+- 小型ヘリコプター（Ingenuity）が飛行実験に成功
