@@ -339,3 +339,6 @@ Phase 6: Venus Exploration - Completed
 - SpaceXは大型宇宙船による火星輸送システムの開発を進めている
 - イーロン・マスクは将来的な火星都市の建設を目標としている
 火星探査は国家プロジェクトから民間主導へと拡大し、人類の新たな時代を切り開く可能性がある。
+---
+## 🚀 Next Mission
+Jupiter Exploration - Phase 8（予定）
